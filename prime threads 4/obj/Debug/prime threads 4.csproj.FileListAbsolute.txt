@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2013\Projects\prime threads 4\prime threads 4\bin\Debug\prime threads 4.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\prime threads 4\prime threads 4\bin\Debug\prime threads 4.exe
+c:\users\alex\documents\visual studio 2013\Projects\prime threads 4\prime threads 4\bin\Debug\prime threads 4.pdb
+c:\users\alex\documents\visual studio 2013\Projects\prime threads 4\prime threads 4\obj\Debug\prime threads 4.exe
+c:\users\alex\documents\visual studio 2013\Projects\prime threads 4\prime threads 4\obj\Debug\prime threads 4.pdb
